@@ -2,3 +2,5 @@ providers/gcp/estudos-devops.json
 providers/gcp/Projeto-DevOps.json
 gcp/terraform.tfstate.backup
 gcp/terraform.tfstate
+gcp/.terraform
+.terraform/
