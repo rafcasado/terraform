@@ -1,10 +1,10 @@
 //Provider Variables
 variable "credentials_gcp" {
-  default = "../providers/gcp/estudos-devops.json"
+  default = "../providers/gcp/Projeto-DevOps.json"
 }
 
 variable "projectid_gcp" {
-  default = "estudos-devops"
+  default = "concrete-list-198618"
 }
 
 variable "regiongcp" {
