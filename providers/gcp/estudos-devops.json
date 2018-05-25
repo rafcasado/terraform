@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "estudos-devops",
+  "private_key_id": "41380c0275dc80718c8c8da2c489ba95e839b3c8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCwWovtFevpEYzh\nUNu3H2Ls6MBOTP6LVD8wAwFtXhhk4pNPHtcHNTxA/X5L39cBtRUfVwh2jlL3Wx/4\nmhbawown3zSyeUWrfUmicIM1ixfN7qKnv6d1gkhtVpudQ+JAokRMy5XFtwTEf4Qy\n1HNO0WlG3yOOlhRI61Hvctyu1hd2oBksCROE4bHr4m5xQWeVzWsTuq9R4slk5o4P\npXZYVdxZCvQn1ZzRbeC7jBCjhlI1BVnyw/eT6gqPgqBV0LckWGhRUHn2BnvydhFA\nIimoTAON/Y0FN05e2mSh3LhJ8H3mJMVUeIOIraQ25gpVdsjKH1w3hmTuJBzUwXlf\n1ELJYNwjAgMBAAECggEANMtOk3HaF4J5BeTiec5MG7dMBsTW+RgF+JYVwcuHCwCn\nb+rAHbjKqnwY6JcAs1KmGaVA89kErmdZyV87006ljbQs/vb+K+oMdrQvG4Lh4/T6\nPbTK6YtQqmbgnDJ707SgNMtHsZJqO3cfOOZQBLr9RMm9R8zXEsNb2o6s0SxnhsvE\nsbaMv3JWpPqC8YsiLHMFLAsoGx+DyYf0jG08s/JGAdc28+ZEEZeqj6Tm8C9yQ68G\npv4nHBTnnVnQcv76biPYt16FjNjfHoxfNFdsCcSGnEyaRLPnOkUNEkxt4hTjSMn/\neh2w1J92l5Mv0ceGR/4lkP1iw6wkH6BgEQdejPGcaQKBgQDXt+yUShtpQ8MkI0g1\n6WhRvrMVteRuwbVuyckyUJ4NhPNmR4gzfuxqdzR0QMBBU1/FEaBuM+cgwGef8mzy\nC8Bwbb0ybyaamyltLuQXO3zryL6FI2rh0e4MEQ0hov1wZIZpCBwr96pGHyMvDM6D\nxOzfTxPfGrD82+N3gBIiyisaOQKBgQDRSNpr06+PIfb1iuAFaaaPdq1D3Z496u2O\nrH6BgtXCweMGUQX3V1md/qvvH6RZlaS9+YJKp9XSksIel0OTB0ZmK35+nkVjtQFl\nF//za4DYGOv7/2PD1Z4tDupmdwAH7rK+tOaqzA8kCmpqvkAGwqic5oemrJY1L2H+\nip6N7/RZOwKBgGWN4+WH4dGzofmwVn1y7baWJW8SG4F81jJa8soqI85Pidrb0CYW\nGayhg+M63IekfZCkFLfs3WGQ0vf8xAdLOwRy1UAaDb15UI5jJeQ+EDhcYD0DiHzZ\nPM0Xdewg9FlmKdTmiYS1asbqP8EVsV9dZPpYGw3MXggcaMDIXUFdld8ZAoGBAJ2j\nVoJpjI8vcik5Vcw97CubpJ69y3ewAQe6ff9nYUO1bx9O4EOSE/qh3TfciZrA0LoX\nukApczGNQZJxNYEFtc03baxJ4tJbgJV5Il1j2ETtYLMLh0X3HZGq7nwHnopbDWAA\nOs7jrXPkNIv6iZeOABtOuVaeIPYmnpVwLEWVPGQJAoGAGQhbHcmzOAWV4cUeQLgg\nLJNiigDshf22Qd2+eMnsCBWZWUjbw3WWv3M3+4Cg8W65SBPMWpIREMSmamBcOz1n\nNbRyzDV413lKG9mmbpowz9pwgVrBE1Scwl5nVqZXNQqHQcPWQWcYBZ1o/vLg5DI7\nJf2MtixWMoBaJDgbRTkutCI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "estudos-devops@estudos-devops.iam.gserviceaccount.com",
+  "client_id": "109138091567368585524",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/estudos-devops%40estudos-devops.iam.gserviceaccount.com"
+}
