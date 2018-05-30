@@ -1,3 +1,17 @@
-providers/gcp/estudos-devops.json
-providers/gcp/Projeto-DevOps.json
-gcp/.terraform/plugins/linux_amd64/lock.json
+# Created by https://www.gitignore.io/api/terraform
+
+### Terraform ###
+# Compiled files
+*.tfstate
+*.tfstate.*
+
+# Module directory
+.terraform/
+
+# .tfvars files
+*.tfvars
+
+#Json Providers
+*.json
+
+# End of https://www.gitignore.io/api/terraform

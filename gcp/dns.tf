@@ -1,5 +1,15 @@
-resource "google_dns_record_set" "devops" {
+resource "google_dns_record_set" "devops1" {
   name = "rancher.rafcasado.com.br."
+  type = "A"
+  ttl  = 1
+
+  managed_zone = "rafcasado"
+
+  rrdatas = ["${google_compute_address.ipexterno.address}"]
+}
+
+resource "google_dns_record_set" "devops2" {
+  name = "www.rancher.rafcasado.com.br."
   type = "A"
   ttl  = 1
 
