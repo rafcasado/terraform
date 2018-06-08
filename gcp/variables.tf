@@ -1,6 +1,6 @@
 //Provider Variables
 variable "credentials_gcp" {
-  default = "../providers/gcp/Projeto-DevOps.json"
+  default = "~/providers/gcp/Projeto-DevOps.json"
 }
 
 variable "projectid_gcp" {
