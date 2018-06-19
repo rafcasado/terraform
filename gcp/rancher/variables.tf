@@ -1,17 +1,4 @@
-//Provider Variables
-variable "credentials_gcp" {
-  default = "/home/rgoncalves/providers/gcp/Projeto-DevOps.json"
-}
-
-variable "projectid_gcp" {
-  default = "concrete-list-198618"
-}
-
-variable "regiongcp" {
-  default = "us-central1"
-}
-
-//Main Variables
+//Rancher Variables
 variable "name" {
   type    = "string"
   default = "rancher"
@@ -29,6 +16,20 @@ variable "image" {
   default = "ubuntu-1604-xenial-v20180522"
 }
 
+//Provider Variables
+variable "credentials_gcp" {
+  default = "/home/rgoncalves/providers/gcp/Projeto-DevOps.json"
+}
+
+variable "projectid_gcp" {
+  default = "concrete-list-198618"
+}
+
+variable "regiongcp" {
+  default = "us-central1"
+}
+
+//Main Variables
 variable "gce_ssh_user" {
   description = "User for ssh-key authentication"
   default     = "rgoncalves"

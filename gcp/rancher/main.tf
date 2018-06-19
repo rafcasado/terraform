@@ -15,7 +15,7 @@ resource "google_compute_instance" "devops" {
     network = "default"
 
     access_config {
-      nat_ip = "${google_compute_address.ipexterno.address}"
+      #nat_ip = "${google_compute_address.ipexterno.address}"  //Ephemeral IP
     }
   }
 
